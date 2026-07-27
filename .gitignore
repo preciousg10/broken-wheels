@@ -1,0 +1,11 @@
+﻿
+# --- added on publish ---
+.env
+.env.*
+!.env.example
+!**/.env.example
+*.key
+node_modules
+dist
+.venv
+__pycache__
