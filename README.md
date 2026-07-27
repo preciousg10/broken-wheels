@@ -1,7 +1,8 @@
-# Broken Wheels — Obstacle Course Robot (Team 39)
+# Broken Wheels: Obstacle Course Robot (Team 39)
 
 An Arduino-powered autonomous robot that races through a line-following obstacle
-course as fast as possible.
+course as fast as possible. Built at **UTRAHacks**, Canada's biggest robotics hackathon, where our team won
+the **Communication Award**.
 
 - **Hardware:** Arduino R4 UNO Minima · two DC motors via an H-bridge · IR line
   sensors · a color sensor for start/finish detection.
